@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🔗 Links:
+-Website: [irohamo.dev](https://irohamo.dev)
+-Instagram: [irohamo.dev](https://instagram.com/irohamo.dev)
