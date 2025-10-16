@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ## 🔗 Links:
--Website: [irohamo.dev](https://irohamo.dev)
--Instagram: [irohamo.dev](https://instagram.com/irohamo.dev)
+- Website: [irohamo.dev](https://irohamo.dev)
+- Instagram: [irohamo.dev](https://instagram.com/irohamo.dev)
